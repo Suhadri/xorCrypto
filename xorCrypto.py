@@ -175,6 +175,6 @@ print "-------------------------------------------------------------------------
 ######Tested this section # print act_txt
 # This section is tested #
 # print x.get_values_from_file()
-# x.add_password_to_file("test_key", "suhadri.paul@oracle.com")
+# x.add_password_to_file("test_key", "suhadri.s.paul@gmail.com")
 # x.add_password_to_file("DB_ADMIN_PWD", "SYSPassword")
 # print x.get_values_from_file()
