@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # Author: Suhadri Shekar Paul (email: suhadri.s.paul@gmail.com)
 # Revised on:
-# Description: https://jira.oraclecorp.com/jira/browse/TAS-3087
+# Description: 
 #
 #
 #
@@ -176,5 +176,5 @@ print "-------------------------------------------------------------------------
 # This section is tested #
 # print x.get_values_from_file()
 # x.add_password_to_file("test_key", "suhadri.paul@oracle.com")
-# x.add_password_to_file("DB_ADMIN_PWD", "SYS4sadcntrl")
+# x.add_password_to_file("DB_ADMIN_PWD", "SYSPassword")
 # print x.get_values_from_file()
