@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# Author: Suhadri Shekar Paul (email: suhadri.paul@oracle.com)
+# Author: Suhadri Shekar Paul (email: suhadri.s.paul@gmail.com)
 # Revised on:
 # Description: https://jira.oraclecorp.com/jira/browse/TAS-3087
 #
@@ -167,7 +167,7 @@ class Cryptoxor(object):
 
 print "----------------------------------------------------------------------------------------------------------------------------"
 # filename = "enc_passes.txt"
-# x = Cryptoxor("t@spatching1", filename=filename)
+# x = Cryptoxor("T@estXor1", filename=filename)
 # print x
 ######Tested this section # enc = x.encrypt("test_appid=N0@pp#D")
 ######Tested this section # print enc
